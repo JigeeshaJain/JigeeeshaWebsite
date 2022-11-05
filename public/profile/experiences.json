@@ -1,7 +1,7 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer Intern",
+            "title": "Software Developer Intern",
             "subtitle": "Pavilion Data Systems Ltd",
             "workType": "Internship",
             "workDescription": [
@@ -32,7 +32,7 @@
                 "Led the team responsible for developing dashboards and performing statistical analysis using data visualization tool Tableau which in turn helped to increase the organization’s revenue by 15%.",
                 "Designed and developed Total Quality Management software using Python and hosted it on Google Cloud obtaining real-time analysis using business intelligence tools and reducing customer complaints from 10% to 0.5%"
             ],
-            "dateText": "12/2018 – 12/2017"
+            "dateText": "12/2017 – 12/2018"
         }
     ]
 }
