@@ -1,0 +1,114 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/Proj1.png",
+            "title": "Production-ready ETL Pipeline Simulation",
+            "bodyText": "- Implemented and deployed production ready ETL pipeline from scratch using Python pandas\n- Achieved real-time transformations of Deutsche Börse Trading Dataset of 1400,000 data points and updated details in AWS S3 bucket.\n - Ran container on Docker Hub and orchestrated pipeline on Kubernetes for timely updates\n -  Performed pipeline profiling using mprof and visualized data on Tableau dashboard.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/JigeeshaJain/ETLPipelineSimulation"
+                }
+                
+            ],
+            "tags" : [
+                "AWS S3",
+                "Kubernetes",
+                "Python",
+                "Orchestration",
+                "Docker",
+                "Google Cloud Services"
+            ]
+        },
+        {
+            "image" : "images/projects/Proj2.jpg",
+            "title": "Drumkit Website",
+            "bodyText": "- A website designed to play various instruments of the Drimkit it includes snare drum, bass drum, hit-hat floor tob . People can play with it just by clicking on the image of the instrument.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://jigeeshajain.github.io/Drumkit-Website/"
+                }
+                
+            ],
+            "tags" : [
+                "JavaScript",
+                "HTML",
+                "BootStrap"
+                
+            ]
+        },
+        {
+            "image" : "images/projects/Proj3.jpg",
+            "title": "Amazon Consumer Review System ",
+            "bodyText": "- Conducted quarter-wise analysis of Amazon products based on reviews for **10 years** using Python.\n - Ran quality Analysis based on the user-entered product in a specific year and analyzed the effect of Black Friday.\n - Generated popularity-based recommendations for Kindle.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/JigeeshaJain/Amazon-Customer-Reviews-MongoDB"
+                }
+            ],
+            "tags" : [
+                "NoSQL",
+                "MongoDB",
+                "PyCharm",
+                "Sentiment Analysis"
+            ]
+        },
+        {   
+            "image" : "images/projects/Proj4.jpg",
+            "title": "Chat Server using Microservices",
+            "bodyText": "- Demonstrated live messaging microservice via building a two-tier live chat website and deploying it in Minikube.\n - Components implemented using Python Flask, JavaScript, Socket IO, and jQuery to communicate messages with the webserver.\n - Processed container hosted on Docker, website deployed on cloud using Kubernetes.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/JigeeshaJain/LiveChatMicroservice"
+                }
+            ],
+            "tags" : [
+                "Flask",
+                "Docker",
+                "MiniKube",
+                "YAML"
+            ]
+        },
+        {   
+            "image" : "images/projects/Finance Dashboard.jpg",
+            "title": "Tableau Dashboards Development",
+            "bodyText": "- Designed and developed the Tableau Dashboards for various departments such as Finance, Logistics, Quality mnanagement and Sales department.\nIncorporated every minute detail of it including revenue generated, YTD, MTD, Inventory and Rejection rate etc.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/JigeeshaJain/TableauDashbaords"
+                }
+            ],
+            "tags" : [
+                "Tableau",
+                "Data Cleaning",
+                "Data Filtering",
+                "Data Analytics",
+                "Microsoft Excel",
+                "SQL"
+                
+            ]
+        },
+        {
+            "image" : "images/projects/image6.jpg",
+            "title": "Interprocess Communication: Game of Turns",
+            "bodyText": "- A game of turns which forks mutiple processes and genearates a child Pid and it keeps on running showing the interprocess communication between the parent and child proceeses.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/JigeeshaJain/CS550-Operating_System/tree/main/Assignment-2"
+                }
+            ],
+            "tags" : [
+                "C",
+                "Operating Systems",
+                "Binary Tree"
+               
+            ]
+        }
+      
+    ]
+}

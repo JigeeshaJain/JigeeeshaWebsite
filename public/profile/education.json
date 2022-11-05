@@ -1,0 +1,17 @@
+{
+    "education":[
+        {
+            "title": "August 2021 - May 2023",
+            "cardTitle": "MS, Computer Science",
+            "cardSubtitle":"SUNY Binghamton University, New York",
+            "cardDetailedText": "GPA - 3.5"
+            
+        },
+        {
+            "title": "May 2013 - July 2017",
+            "cardTitle": "Bachelors ",
+            "cardSubtitle":"University of Pune, India"
+            
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/JigeeshaJain/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/JigeeshaJain"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:jjain1@binghamton.edu"
+        }
+    ]
+}

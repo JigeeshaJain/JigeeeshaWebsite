@@ -1,0 +1,38 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer Intern",
+            "subtitle": "Pavilion Data Systems Ltd",
+            "workType": "Internship",
+            "workDescription": [
+                "Development of UI using confluent Kafka, Apache Karapace schema registry, debugging and analyzing the storage using Glue and AWS S3 bucket",
+                "Developing and deploying schema registry API using Postman",
+                "Performed code and unit testing for complex scope modules and projects while diagnosing critical issues",
+                "Documenting in the functional design document and committing code in main branch to add in product version 2.0"
+            ],
+            "dateText": "05/2022 – 08/2022"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "Siemens Ltd",
+            "workType": "Full-Time",
+            "workDescription": [
+                "Worked on the development of Siemens Remote Management Tool - MindSpark in an agile development environment. Gained experience in CI/CD pipeline by participating in a well-planned design process, then continuing with appropriate development, debugging, and integration testing",
+                "Reduced the time taken to certify licenses from 5 days to 24 hours by automating the approval process using SQL database",
+                "Led product design to revise, modularize, automate, and update old code bases to modern development standards, reducing time taken to perform disaster recovery operations by over 300%"
+            ],
+            "dateText": "12/2018 –08/2021"
+        },
+        {
+            "title": "Data Analyst",
+            "subtitle": "Siemens Ltd",
+            "workType": "Full-Time",
+            "workDescription": [
+                "Managed three team members to make data more structured and easier to retrieve. Increased efficiency by decreasing inventory by 22% due to real-time visualization of in-stock, out of stock, and excess stock goods",
+                "Led the team responsible for developing dashboards and performing statistical analysis using data visualization tool Tableau which in turn helped to increase the organization’s revenue by 15%.",
+                "Designed and developed Total Quality Management software using Python and hosted it on Google Cloud obtaining real-time analysis using business intelligence tools and reducing customer complaints from 10% to 0.5%"
+            ],
+            "dateText": "12/2018 – 12/2017"
+        }
+    ]
+}
